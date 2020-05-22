@@ -1,2 +1,0 @@
-# LearningGitBegginer
-Learning Git Basics
