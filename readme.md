@@ -1,6 +1,7 @@
 Wagtail demo project
 =======================
 
+Change made by Nidheesh
 This is a demonstration project for the amazing [Wagtail CMS](https://github.com/wagtail/wagtail).
 
 The demo site is designed to provide examples of common features and recipes to introduce you to Wagtail development. Beyond the code, it will also let you explore the admin / editorial interface of the CMS.
