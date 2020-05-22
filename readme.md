@@ -1,7 +1,7 @@
 Wagtail demo project
 =======================
-Avinash teaching New conflict resolution.
-
+Google teaching New conflict resolution.
+New changes in Branch1
 Chris Learning Conflict resolution
 Hello World!!!Here's a conflict. How will you resolve it?
 Rebase lesson 1
