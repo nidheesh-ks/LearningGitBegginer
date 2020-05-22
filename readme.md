@@ -1,17 +1,19 @@
 Wagtail demo project
 =======================
+Avinash teaching New conflict resolution.
 
-This is a demonstration project for the amazing [Wagtail CMS](https://github.com/wagtail/wagtail).
+Chris Learning Conflict resolution
+Hello World!!!Here's a conflict. How will you resolve it?
+Rebase lesson 1
 
-The demo site is designed to provide examples of common features and recipes to introduce you to Wagtail development. Beyond the code, it will also let you explore the admin / editorial interface of the CMS.
+This is a demonstration project for the amazing Chrsitopher Learnings [Wagtail CMS](https://github.com/wagtail/wagtail).
+
+The demo site is designed for Christo to provide examples of common features and recipes to introduce you to Wagtail development. Beyond the code, it will also let you explore the admin / editorial interface of the CMS.
 
 Note we do _not_ recommend using this project to start your own site - the demo is intended to be a springboard to get you started. Feel free to copy code from the demo into your own project.
 
 ### Wagtail Features Demonstrated in This Demo
-#######
-######
-Changes in master
-###
+Learning Rebase in Git
 This demo is aimed primarily at developers wanting to learn more about the internals of Wagtail, and assumes you'll be reading its source code. After browsing the features, pay special attention to code we've used for:
 
 -   Dividing a project up into multiple apps
@@ -44,6 +46,9 @@ virtualenv and traditional Django app setup instructions should skip to [Setup w
 
 Setup with Vagrant
 ------------------
+
+#### Welcome Chris
+
 
 #### Dependencies
 * [Vagrant](https://www.vagrantup.com/)
